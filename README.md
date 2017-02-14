@@ -1,2 +1,2 @@
 # common-dependencies
-Common Project Dependencies
+Common Maven Project Dependencies for My Projects
