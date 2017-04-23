@@ -4,11 +4,11 @@
 
     <groupId>pw.phylame.util</groupId>
     <artifactId>my-project</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>pom</packaging>
 
     <name>My Project</name>
-    <description>Common Maven Dependencies for My Projects</description>
+    <description>Common settings for my projects</description>
 
     <licenses>
         <license>
@@ -38,9 +38,9 @@
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <project.build.sourceEncoding>${java.encoding}</project.build.sourceEncoding>
 
-        <testng.version>6.10</testng.version>
-        <kotlin.version>1.0.6</kotlin.version>
-        <lombok.version>1.16.14</lombok.version>
+        <testng.version>6.11</testng.version>
+        <kotlin.version>1.1.1</kotlin.version>
+        <lombok.version>1.16.16</lombok.version>
     </properties>
 
     <prerequisites>
